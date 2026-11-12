@@ -1,6 +1,7 @@
 @docs_HostAddress = http://localhost:5089
 
-GET {{docs_HostAddress}}/weatherforecast/
+GET {{docs_HostAddress}}/exemplos
+
 Accept: application/json
 
-###
+
